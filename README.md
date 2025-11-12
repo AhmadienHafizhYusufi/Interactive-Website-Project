@@ -1,16 +1,52 @@
-# React + Vite
+# ⚡ Interactive Website Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **dashboard web application** built with **React.js (TypeScript)**, styled using **Tailwind CSS**, and enhanced with smooth **GSAP animations**.  
+This project showcases front-end creativity, interactivity, and responsive UI design — all crafted for a clean and dynamic user experience.
 
-Currently, two official plugins are available:
+> 🖥️ Live Demo: [interactive-website-project.vercel.app](https://interactive-website-project.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎨 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The **Interactive Website Project** demonstrates how to combine **React**, **Tailwind CSS**, and **GSAP** to build a fully interactive dashboard interface.  
+It emphasizes motion design, component reusability, and a smooth user flow to create a visually appealing and performance-optimized web experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 Features
+
+- ✨ **Modern Dashboard UI** – Elegant and responsive layout for data or content visualization  
+- ⚙️ **React + TypeScript** – Strongly typed and maintainable codebase  
+- 🎞️ **GSAP Animations** – Smooth, performant transitions and element animations  
+- 💨 **Tailwind CSS Styling** – Rapid design workflow with utility-first classes  
+- 📱 **Fully Responsive** – Adapts beautifully to mobile, tablet, and desktop screens  
+- 🧩 **Reusable Components** – Clean architecture with modular React components  
+
+---
+
+## 🧱 Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| Framework | React.js (TypeScript) |
+| Styling | Tailwind CSS |
+| Animation | GSAP (GreenSock Animation Platform) |
+| Build Tool | Vite |
+| Deployment | Vercel |
+| Tools | Git, VS Code |
+
+---
+## 🖼️ Preview
+
+*(Insert screenshot or demo link here)*  
+> Example:  
+> [🌐 Live Demo](https://interactive-website-project.vercel.app/)
+
+---
+
+## 🧑‍💻 Author
+
+**Ahmadien Hafizh Yusufi**  
+🎨 Front-End Developer & UI Designer  
+📫 [LinkedIn](https://www.linkedin.com/in/ahmadien-hafizh-yusufi/)
